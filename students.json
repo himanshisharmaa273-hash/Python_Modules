@@ -1,0 +1,52 @@
+[
+    {
+        "Roll_No": 101,
+        "Name": "Himanshi",
+        "Branch": "CSE",
+        "Marks": [
+            98,
+            97,
+            99
+        ]
+    },
+    {
+        "Roll_No": 102,
+        "Name": "Khushi",
+        "Branch": "CSE",
+        "Marks": [
+            96,
+            97,
+            95
+        ]
+    },
+    {
+        "Roll_No": 103,
+        "Name": "Prachi",
+        "Branch": "AI/ML",
+        "Marks": [
+            89,
+            92,
+            90
+        ]
+    },
+    {
+        "Roll_No": 104,
+        "Name": "Elizabeth",
+        "Branch": "DS",
+        "Marks": [
+            100,
+            67,
+            79
+        ]
+    },
+    {
+        "Roll_No": 105,
+        "Name": "Amrit",
+        "Branch": "AI/ML",
+        "Marks": [
+            98,
+            69,
+            89
+        ]
+    }
+]

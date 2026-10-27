@@ -1,0 +1,26 @@
+[
+    {
+        "roll_no": 201,
+        "name": "Sinchan",
+        "total_marks": 98,
+        "Avg_marks": 66
+    },
+    {
+        "roll_no": 202,
+        "name": "Doraemon",
+        "total_marks": 98,
+        "Avg_marks": 66
+    },
+    {
+        "roll_no": 203,
+        "name": "Spiderman",
+        "total_marks": 98,
+        "Avg_marks": 66
+    },
+    {
+        "roll_no": 204,
+        "name": "Avtar",
+        "total_marks": 98,
+        "Avg_marks": 66
+    }
+]
